@@ -1,0 +1,21 @@
+{
+  "header": {
+    "title": "MPDO Office Kuppam Mandal",
+    "subtitle": "Government of Andhra Pradesh",
+    "parentPortal": "Panchayat Raj Portal"
+  },
+  "navigation": {
+    "home": "Home",
+    "departments": "Departments",
+    "staff": "Staff Directory",
+    "contacts": "Contact Directory",
+    "statistics": "Statistics",
+    "grievances": "File Grievance",
+    "help": "Help"
+  },
+  "grievance": {
+    "title": "Grievance Portal",
+    "description": "Register and track your complaints through the official AP Grievance Portal",
+    "button": "File a Grievance"
+  }
+}
